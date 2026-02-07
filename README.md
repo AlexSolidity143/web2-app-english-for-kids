@@ -7,4 +7,4 @@ JavaScript
 Приложение упаковано с помощью Prepros. В новых приложениях используется Webpack
 
 Посмотреть работу приложения:  
-https://sitecreator143.github.io/app-english-for-kids/
+https://alexsolidity143.github.io/web2-app-english-for-kids
